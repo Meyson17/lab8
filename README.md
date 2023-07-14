@@ -127,7 +127,7 @@
         function num8()
         {
             for(let i = 0; i < 8; i++)
-                document.write('<img src="mops.jpg" alt="mops" />')
+                document.write('<img src="1.jpg" alt="1" />')
         }
 
         function num9()
